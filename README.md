@@ -7,7 +7,7 @@ What I did was scraped the first 10000 movie titles that were sorted in descendi
 
 I got bored with the data quite fast but here are a few interesting finds:
 
-Arround 1940 there are a few movies that stand out from the crowd with respects to number of votes:
+Arround 1940 there are a few movies that stand out from the crowd with respects to number of votes.
 They are also high scored, but that is quite common in old movies. Nobody watches bad old movies anymore. 
 There are enough of bad new movies.
 
