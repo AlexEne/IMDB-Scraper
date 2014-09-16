@@ -11,6 +11,8 @@ Arround 1940 there are a few movies that stand out from the crowd with respects 
 They are also high scored, but that is quite common in old movies. Nobody watches bad old movies anymore. 
 There are enough of bad new movies.
 
+![Preview](votes_year.png)
+
                      name   year  score  duration    votes  
                Casablanca   1942    8.6       102   313040  
              Citizen Kane   1941    8.4       119   240466  
